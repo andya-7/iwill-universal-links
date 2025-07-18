@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "EVMLUVG33V.com.iwill.app.iwillapp",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
