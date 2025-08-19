@@ -3,8 +3,8 @@
     "apps": [],
     "details": [
       {
-        "appID": "EVMLUVG33V.com.iwill.app.iwillapp",
-        "paths": ["*"]
+        "appIDs": ["EVMLUVG33V.com.iwill.app.iwillapp"],
+        "paths": ["/auth/callback", "/auth/*"]
       }
     ]
   }
