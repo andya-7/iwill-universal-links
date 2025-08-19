@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["EVMLUVG33V.com.iwill.app.iwillapp"],
+        "paths": ["/auth/callback", "/auth/*"]
+      }
+    ]
+  }
+}
